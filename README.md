@@ -6,6 +6,8 @@ https://www.windowscentral.com/add-open-command-window-here-back-context-menu-wi
 
 HKEY_CLASSES_ROOT\Directory\shell\cmd
 
+Shell ext: http://code.kliu.org/cmdopen/
+
 #### Edit "New File" Menu
 https://www.askvg.com/how-to-add-remove-items-from-new-menu-in-windows/
 Windows file extensions to remove:
